@@ -344,7 +344,7 @@ None
             <div class="menu-card">
                 <div class="menu-image">🥗</div>
                 <div class="menu-content">
-                    <h3>Gado² Orang Jogja</h3>
+                    <h3>Gado-Gado Orang Jogja</h3>
                     <p>Sayuran segar dengan bumbu kacang kental khas Yogyakarta yang autentik</p>
                     <div class="price">Rp 12.000</div>
                     <div class="quantity-control">
